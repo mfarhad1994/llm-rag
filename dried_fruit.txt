@@ -1,0 +1,3 @@
+ceviz, fintik, kaju, uzum, ceviz, kaju
+kaju, uzum, ceviz, kaju, ceviz, fintik
+uzum, ceviz, fintik, uzum, ceviz, kaju
